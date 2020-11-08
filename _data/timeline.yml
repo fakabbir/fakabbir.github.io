@@ -1,17 +1,19 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Research Engineer, Siemens Technology
+  from: 2019
+  to: Present
+  description: Working in Domain specific implementation of NLP and AI.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Software Engineer, CGI
+  from: 2017
+  to: 2019
+  description: Worked on OCR, RPA and Process Automation
+
+- title: Undergraduate Reseacher, Indian Institute of Technology Roorkee
+  from: 2015
+  to: 2016
+  description: Worked on Simulations(Optical Fibre Communication) and Quantum Computation
+
+- title: Research Intern, Indian Institute of Science (IISc)
+  from: 2013
+  to: 2013
+  description: NMR Spectroscopy
