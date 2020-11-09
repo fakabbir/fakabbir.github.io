@@ -1,8 +1,8 @@
 ### Site Settings ###
-title               : It's me, roaming
+title               : It's me, roaming again!
 description         : >-
                       Research Engineer,
-                      Buzzwords working on: AI, NLP, Process Automation
+                      Working on buzzwords like AI, NLP, Process Automation
 
 baseurl             : "" #"/portfolYOU" Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : fakabbir/fakabbir.github.io #YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
