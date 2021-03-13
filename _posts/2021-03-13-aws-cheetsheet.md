@@ -1,5 +1,6 @@
 # AWS Cheetsheet
 
+Commands to make life easy
 - AWS DynamoDB
   - connect to local endpoint `aws dynamodb list-tables --endpoint-url http://localhost:8000`
   - docker-compose.yml
