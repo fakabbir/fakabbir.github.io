@@ -1,5 +1,5 @@
 ---
-name: Reinforcement Learing Notebooks.md
+name: Reinforcement Learing Notebooks
 tools: [python, tensorflow, reinforcement learning]
 image: https://miro.medium.com/max/1200/0*Rda_s6qNiZhxmQEJ.png
 description: Reinforcement Learing notebooks for quickly learning RL.
