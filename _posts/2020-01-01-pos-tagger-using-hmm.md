@@ -4,7 +4,7 @@ tags: [nlp]
 style: fill
 color: warning
 description: Code snippets with concepts for building POS tagger using Hidden Markov Model
-external_url_: https://www.notion.so/Hidden-Markov-Model-70bca4981b7b45eb8016741e3a703254
+external_url: https://www.notion.so/Hidden-Markov-Model-70bca4981b7b45eb8016741e3a703254
 ---
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6adc6e76-7402-4987-85be-2e4c84c36a0e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6adc6e76-7402-4987-85be-2e4c84c36a0e/Untitled.png)
