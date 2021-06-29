@@ -1,5 +1,5 @@
 ---
-name: NLP Tasks
+name: NLP Guide
 tools: [python, nlp]
 image: https://i.ibb.co/VNdxHDp/nlp-pic.png
 description: Key Value extraction from invoices using weighted prbabilitcs design over hOCR files.
